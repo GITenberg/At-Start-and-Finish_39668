@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '40144'
     url: http://www.gutenberg.org/2009/agents/40144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39668#At-Start-and-Finish
 gutenberg_issued: '2012-05-11'
 gutenberg_type: Text
 identifiers:
